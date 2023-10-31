@@ -85,6 +85,15 @@ flutter:
     - asset/image/listVeiw/p5.jpg
     - asset/image/listVeiw/p6.jpg
     - asset/image/listVeiw/p7.jpg
+    - asset/profile/address.png
+    - asset/profile/login.png
+    - asset/profile/logout.png
+    - asset/profile/privacy.png
+    - asset/profile/recent.png
+    - asset/profile/theme.png
+    - asset/profile/order_svg.png
+    - asset/profile/wishlist_svg.png
+    - asset/profile/language.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
